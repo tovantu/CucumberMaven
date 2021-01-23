@@ -43,3 +43,14 @@
 /var/package/*
 !/var/package/*.xml
 
+# Ignore target folder
+target/
+
+# Ignore idea folder
+.idea/
+*.iml
+*.iws
+
+# Ignore report folder
+Report/
+
