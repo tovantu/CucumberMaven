@@ -52,5 +52,5 @@ target/
 *.iws
 
 # Ignore report folder
-report/
+reports/
 
