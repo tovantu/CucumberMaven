@@ -2,7 +2,7 @@
 # Required:
 * Java, Maven
 # Command run test
-    mvn clean test -Ddataproviderthreadcount=4
+    mvn clean test -Dcucumber.filter.tags="@myTag" -Ddataproviderthreadcount=3
 
 # How to create test
 
